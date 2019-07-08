@@ -35,3 +35,4 @@ Frameworks
     stm32cube
     tizenrt
     wiringpi
+    StdPeriph_Driver
